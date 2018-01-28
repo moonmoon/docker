@@ -1,4 +1,4 @@
-# Docker images for moonmoon
+# Docker images for moonmoon [![Docker Build Status](https://img.shields.io/docker/build/moonmoonapp/moonmoon.svg?style=flat-square)](https://hub.docker.com/r/moonmoonapp/moonmoon/) [![Docker Pulls](https://img.shields.io/docker/pulls/moonmoonapp/moonmoon.svg?style=flat-square)](https://hub.docker.com/r/moonmoonapp/moonmoon/)
 
 This repository takes advantage from Docker Hub's Automated Builds to generate
 up-to-date images of moonmoon in various environments. At the time, these 
